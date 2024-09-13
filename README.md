@@ -24,4 +24,6 @@ Running the project with the command dotnet watch run will show the Swagger UI.
 
 
 ------- NOTE ------------
+
+
 The rest are auxiliary for better understanding.
